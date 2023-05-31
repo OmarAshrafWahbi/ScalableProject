@@ -5,10 +5,12 @@
 2) Extract file
 
 3) Open CMD in the directory of extraction and write:
+
 a) (for windows): .\bin\windows\zookeeper-server-start.bat config\zookeeper.properties
 b) (for mac and linux): bin/zookeeper-server-start.sh config/zookeeper.properties
 
 4) Open another CMD in the directory of extraction and write:
+
 a) (for windows): .\bin\windows\kafka-server-start.sh config/server.properties
 b) (for mac and linux): bin/kafka-server-start.sh config/server.properties
   
